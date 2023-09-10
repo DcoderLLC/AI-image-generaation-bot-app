@@ -4,7 +4,6 @@ import {logo} from './assets'
 import {Home, Create} from './pages'
 
 
-
 const App = () => {
   return (
     <BrowserRouter>
